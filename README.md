@@ -1,2 +1,2 @@
 # DSP
-Some university DSP project examples using Matlab 
+University DSP project examples using Matlab 
