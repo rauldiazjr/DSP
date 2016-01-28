@@ -1,6 +1,7 @@
 %   Raul Diaz
 %   CECS 463 SOC II Spr 2015
 %   Lecture Assignment 10 Due: 5/6/2015
+
 %
 clc; clear all; format compact; 
 
